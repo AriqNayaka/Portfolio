@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AriqNayaka.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/AriqNayaka.github.io/static/js/main.89d35757.js",
+    "static/js/453.1407b060.chunk.js": "/AriqNayaka.github.io/static/js/453.1407b060.chunk.js",
+    "index.html": "/AriqNayaka.github.io/index.html",
+    "main.f855e6bc.css.map": "/AriqNayaka.github.io/static/css/main.f855e6bc.css.map",
+    "main.89d35757.js.map": "/AriqNayaka.github.io/static/js/main.89d35757.js.map",
+    "453.1407b060.chunk.js.map": "/AriqNayaka.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.89d35757.js"
+  ]
+}
